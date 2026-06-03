@@ -40,5 +40,7 @@ Project 1 utilized a combination of pointers and structures to store the data of
 <hr>
 
 I found the project to one of the most challenging aspects of the course, since I found programming with C and especially C++ to be disagreeable. However, I won't deny that I appreciated the challenge, in that fact that it pushed my capabilities with the programming languages, and allowed me to demonstrate my understanding of the course content.
+
+<hr>
  
 Source: <a href="https://github.com/E-Penullar/Data-Archive-Project">E-Penullar/Data-Archive-Project</a>
