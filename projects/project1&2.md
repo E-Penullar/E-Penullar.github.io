@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/c-logo.png
+image: img/CLogo.png
 title: "Data Archive Projects"
 date: Fall 2025
 published: true
