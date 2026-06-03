@@ -8,6 +8,7 @@ published: true
 labels:
   - C
   - C++
+  - Interactive
 
 summary: "Two projects from ICS 212: A Database that utilizes a linked list with dynamic memory allocation to store information."
 ---
