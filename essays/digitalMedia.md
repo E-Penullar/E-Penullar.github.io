@@ -11,7 +11,7 @@ labels:
   - Digital Media
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/RoboBuddy.png">
+<img width="400px" class="rounded float-start pe-4" src="../img/someFella.jpg">
 
 When I was in high school, I aspired to be some kinda of artist. A vauge conclusion to my student career, as I had always adored art as a activity and as an expression of the human soul, but not much else. I think I was just grasping for straws, determining my future based off of pencil sketches and hasty collages. But in my senior year, I took a computer science class and enjoyed it, maybe more than I enjoyed art.  
 
@@ -22,5 +22,3 @@ I also aspired to learn how to code, but I always thought that was an even more 
 ## Try Something New
 
 Now I'm a Computer Science major in UH Manoa. That high school class was a spark of inspiration that'll either end in a wildfire disaster or an appreciated warmth. I'm optimistic enough to think it'll be the latter. Hopefully by the time I've graduated, I'd have learned alot about programming and graphic design, to the point of blending my two favorite studies together into a fufilling resolution.
-
-<img width="200px" class="rounded float-start pe-4" src="../img/someFella.jpg">
