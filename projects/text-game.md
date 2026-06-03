@@ -21,4 +21,4 @@ I kept a copy of it, back when I still used Replit for my projects.
 
 <hr>
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Source: <a href="https://github.com/E-Penullar/Text-Based-Turn-Based-Game"><i class="large github icon "></i>E-Penullar/Text-Based-Turn-Based-Game</a>
