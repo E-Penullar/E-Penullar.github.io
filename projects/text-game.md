@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/python-logo.png
+image: img/pythonLogo.png
 title: "Text-Based Turn-Based Game"
 date: 2014
 published: true
