@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/java_logo.png
+image: img/javaLogo.png
 title: "Language Model"
 date: Spring 2024
 published: true
