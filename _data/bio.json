@@ -35,13 +35,11 @@
       "startDate": "2024",
       "endDate": "Present",
       "courses": [ 
-        { 
             "Intro to Computer Science I", 
             "Intro to Computer Science II", 
             "Discrete Mathematics I",
             "Discrete Mathematics II",
             "Program Structure"
-        },
       ],
     }
   ],
@@ -51,11 +49,7 @@
       "position": "Office Clerk",
       "startDate": "May 2024",
       "endDate": "August 2024",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
+      "summary": "Data Entry Position, Cataloging and Maintaing Physical Documents"
     },
   ],
   "awards": [    
@@ -76,10 +70,10 @@
     {
       "organization": "Kawaii Kon Crew",
       "website": "https://kawaiikon.com/",
-      "position": "Volunteering Crew Member, ExHall",
+      "position": "Volunteering Crew Member",
       "startDate": "November 2024",
       "endDate": "May 2025",
-      "summary": "Exhibition Hall Crew Member: facitilitating and assisited attendees within the Exhibition Hall, manage help booth questions and purchases"
+      "summary": "ExHall Crew Member: facitilitating and assisited attendees within the Exhibition Hall, manage help booth questions and purchases"
     },
   ],
   "references": [
