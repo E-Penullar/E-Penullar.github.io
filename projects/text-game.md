@@ -6,8 +6,9 @@ title: "Text-Based Turn-Based Game"
 date: 2014
 published: true
 labels:
-  - Lisp
-  - GitHub
+  - Python
+  - Video Game
+  - Interactive
 summary: "A text-based video game that I developed for my high school Computer Science class."
 ---
 
