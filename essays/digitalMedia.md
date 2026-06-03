@@ -23,4 +23,4 @@ I also aspired to learn how to code, but I always thought that was an even more 
 
 Now I'm a Computer Science major in UH Manoa. That high school class was a spark of inspiration that'll either end in a wildfire disaster or an appreciated warmth. I'm optimistic enough to think it'll be the latter. Hopefully by the time I've graduated, I'd have learned alot about programming and graphic design, to the point of blending my two favorite studies together into a fufilling resolution.
 
-
+<img width="200px" class="rounded float-start pe-4" src="..img/someFella.jpg">
