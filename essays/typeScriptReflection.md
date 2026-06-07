@@ -10,7 +10,7 @@ labels:
   - typeScript
 ---
 
-<img width="500px" class="rounded float-start pe-4" src="../img/art/E10_Looking.png">
+<img width="350px" class="rounded float-start pe-4" src="../img/art/E10_Looking.png">
 
 Although it's been a while since I've touched any code, and this is my first time learning about JavaScript or TypeScripting, it was a surprisingly pleasant experience. I think I was a bit worried initally since it's been some time since I've thought about variables or functions, but much of learning JavaScript was relearning familiar material with a twist. The ‘var’, ‘let’, and ‘const’ keywords were new to me but easy to understand, and the difference between strict and loose equality might get a bit confusing, but overall it's similar to when I learned Java and C.
 
