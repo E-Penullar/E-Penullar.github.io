@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/CLogo.png
+image: img/art/iconography/CLogo.png
 title: "Data Archive Projects"
 date: Fall 2025
 published: true
@@ -13,7 +13,7 @@ labels:
 summary: "Two projects from ICS 212: A Database that utilizes a linked list with dynamic memory allocation to store information."
 ---
 
-<img class="img-fluid" src="../img/Project1&2.png">
+<img class="img-fluid" src="../img/code/E06_Project1&2.png">
 
 When I took ICS 212, we were given the assignment to build an application which allowed users to access a database and add or delete information, depending on user input. The assignment was split into two part: Project 1, which was written in C, and Project 2, which was the same program but written in C++. The concept was kept the same between the two projects, where users would be able to create new records, each with distinct account number, name, and address, or delete records. 
 
