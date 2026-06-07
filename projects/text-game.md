@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/pythonLogo.png
+image: img/art/iconography/pythonLogo.png
 title: "Text-Based Turn-Based Game"
 date: 2014
 published: true
@@ -12,7 +12,7 @@ labels:
 summary: "A text-based video game that I developed for my high school Computer Science class."
 ---
 
-<img class="img-fluid" src="../img/Text-Based Gaming.png">
+<img class="img-fluid" src="../img/code/E06_Text_Gaming.png">
 
 This simple project was one of the first I started working on when I got into coding; it's a bit unposlished but I'm still proud of it. The game is coded entirely in Python, which was one of the first coding languages I've learned. I made this a long time ago, so I'm thankful that I kept a copy of it, back when I still used Replit for my projects. Below is some code for the attack and heal action from the game:
 
