@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/javaLogo.png
+image: img/art/iconography/javaLogo.png
 title: "Language Model"
 date: Spring 2024
 published: true
@@ -11,7 +11,7 @@ labels:
 summary: "A Language Model Assignment from ICS 211."
 ---
 
-<img class="img-fluid" src="../img/language_model.png">
+<img class="img-fluid" src="../img/code/E06_language_model.png">
 
 This is an assignment from ICS 211 that I worked on utilizing Java — it's a language model that randomly generates sentences based off of their frequency in given text files. Though this code isn't interactive, users can input whichever text file they wish the program to read from to the same folder, and have the program read from said text files and generate whichever kinda of sentences. 
 
