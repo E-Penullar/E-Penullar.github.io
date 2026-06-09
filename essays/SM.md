@@ -11,6 +11,11 @@ labels:
   - StackOverflow
 ---
 
+<a href="https://wikipedia.org">Visit Wikipedia</a>
+
+<a href="https://wikipedia.org" target="_blank">Visit Wikipedia in a new tab</a>
+
+
 <img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
 
 ## Is there such thing as a stupid question?
