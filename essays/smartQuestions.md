@@ -4,15 +4,13 @@ type: essay
 title: "A How-to and How-not-to Guide on Asking Smart Questions"
 # All dates must be YYYY-MM-DD format!
 date: 2026-06-08
-published: false
+published: true
 labels:
   - Questions
   - Stack Overflow
 ---
 
-<img width="350px" class="rounded float-start pe-4" src="../img/art/E10_Looking.png">
-
-In the current day an
+<img width="200px" class="rounded float-start pe-4" src="../img/art/E11_thinking.png">
 
 No single person can know everything, and in an age of programming and industry of software development, it's important to be able to communicate with fellow programmers. To ask questions, whether as an amateur or as a professional, is part of the experience of becoming a better developer. For novices, it gives them the opportunity to learn from those more proficient. And for experts, collaboration is key to tackling difficult problems, as a diverse array of perspectives may help when one is feeling lost in their own head. 
 
