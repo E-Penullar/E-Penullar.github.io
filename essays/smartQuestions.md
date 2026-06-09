@@ -35,7 +35,7 @@ On the other hand, we have a question titled "[Getting error while running node 
 
 For example:
 
-<pre>
+```
 // Source - https://stackoverflow.com/q/67514403
 // Posted by Khetesh Singh
 // Retrieved 2026-06-08, License - CC BY-SA 4.0
@@ -81,9 +81,11 @@ module.exports = class cart {
         });
     }
 };
-</pre>
+```
 
-This huge chunk of code might describe what they're doing — the code iself includes comments, and there's a huge block of what their output looks like after running their code — but it's all a bunch of noise. There could a whole slew of solutions that may or may not have anything to do with the code in question, or it could be this person's software, we don't know because OP did not incude such info. There's so much information yet very little context, and as a result this question has no responses nor followups, despite being written 5 years ago.
+This huge chunk of code might describe what they're doing — the code iself includes comments, and there's a huge block of what their output looks like after running their code — but it's all a bunch of noise. There could a whole slew of solutions that may or may not have anything to do with the code in question, or it could be this person's software, we don't know because OP did not incude such info. 
+
+Raymond' suggests to not ask open-ended questions, that people would be more likely to give useful responses if you give explicit questions as to what you want from other, where that be pointers or outright solutions. Yet all OP says is "any help will be great." This combined with the lengthly blocks of code, makes for huge ask from — people would much rather spend their time elsewhere than deal with huge volumes of code and open-ended time sinks. There's so much information yet very little context, and as a result this question has no responses nor followups, despite being written 5 years ago. 
 
 ## So What's the Takeaway
 
