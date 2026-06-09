@@ -25,7 +25,7 @@ This question is titled "[How to add images to README.md on GitHub?](https://sta
 
 Here it is shown below:
 
-<img src="../img/code/E11_Smart.png" alt="An Example of a Smart Question: OP asks how to include images in a README File, and had tried searching online. Simple, to-the-point, and written in clear language; there are many replies from other people." class="rounded mx-auto pe-4">
+<img width="600px" src="../img/code/E11_Smart.png" alt="An Example of a Smart Question: OP asks how to include images in a README File, and had tried searching online. Simple, to-the-point, and written in clear language; there are many replies from other people." class="rounded mx-auto pe-4">
 
 There's plenty of context given to understand the situation and how to better help: we're told that OP is new to Github and is trying to include some images in a README File, and we also know that they've tried looking up the solution but came up empty. It's a very short and simple question, but they got their point across and because of that, they've gotten plenty of responses of people giving their input. 
 
