@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "E10: TypeScript Reflection — Unfamiliar yet Familiar"
+title: "TypeScript Reflection — Unfamiliar yet Familiar"
 # All dates must be YYYY-MM-DD format!
 date: 2026-06-06
 published: true
