@@ -17,7 +17,7 @@ summary: "Two projects from ICS 212: A Database that utilizes a linked list with
 
 When I took ICS 212, we were given the assignment to build an application which allowed users to access a database and add or delete information, depending on user input. The assignment was split into two part: Project 1, which was written in C, and Project 2, which was the same program but written in C++. The concept was kept the same between the two projects, where users would be able to create new records, each with distinct account number, name, and address, or delete records. 
 
-Project 1 utilized a combination of pointers and structures to store the data of each individual record, while allowing users to add or delete records with malloc() and free(). Project 2 on the other had utilized classes and class members alongside struct, and used 'new' and 'delete' instead of malloc() and free(). Both projects made use of file pointers in order to open, read, and write to a seperate text file, which stored all records and any updates made to the list. Below is an example of code from Project1:
+Project 1 utilized a combination of pointers and structures to store the data of each individual record, while allowing users to add or delete records with malloc() and free(). Project 2 on the other had utilized classes and class members alongside struct, and used 'new' and 'delete' instead of malloc() and free(). Both projects made use of file pointers in order to open, read, and write to a separate text file, which stored all records and any updates made to the list. Below is an example of code from Project1:
 
 <hr>
 

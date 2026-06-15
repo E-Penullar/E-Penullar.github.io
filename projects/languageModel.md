@@ -15,7 +15,7 @@ summary: "A Language Model Assignment from ICS 211."
 
 This is an assignment from ICS 211 that I worked on utilizing Java — it's a language model that randomly generates sentences based off of their frequency in given text files. Though this code isn't interactive, users can input whichever text file they wish the program to read from to the same folder, and have the program read from said text files and generate whichever kinda of sentences. 
 
-FollowingWord.java includs a container class that holds the frequency of certain words, and WorkMapValue.java manages the context of those words and which words have paired up before. Combing them with TestLanguage.java, the program reads through avaiable .txt files and each and every word. Tracking each word, it then generates the new sentences by picking the next word based off of it's frequency and the contextually-likely next word from the previous word. Confusing, but it makes sense when things get going. Below is an example of code from TestLanguage.java:
+FollowingWord.java includes a container class that holds the frequency of certain words, and WorkMapValue.java manages the context of those words and which words have paired up before. Combing them with TestLanguage.java, the program reads through available .txt files and each and every word. Tracking each word, it then generates the new sentences by picking the next word based off of it's frequency and the contextually-likely next word from the previous word. Confusing, but it makes sense when things get going. Below is an example of code from TestLanguage.java:
 
 <hr>
 
