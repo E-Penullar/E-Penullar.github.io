@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Corrections and Syntax: A Reflection on Coding Standard"
 # All dates must be YYYY-MM-DD format!
-date: 2026-06-08
+date: 2026-06-22
 published: true
 labels:
   - Coding Standards
