@@ -18,7 +18,7 @@ When I write my code, I usually understand and know how to make it readible for 
 
 ## Reading my Code from a Different Perspective
 
-<img width="300px" class="rounded float-start pe-4" src="../img/art/E28_Eureka.png" alt="My thoughts">
+<img width="200px" class="rounded float-start pe-4" src="../img/art/E28_Eureka.png" alt="My thoughts">
 
 While I worked on assignments where I utilized **ESLint**, I think I've learned a bit more about myself and about coding as well. Personally, I tend to give a lot of space between my lines of code. I used to think it made the code easier to read, but I realize now it's either terrible redundant or inconvenient. Having **ESLint** was really helpful in pointing out whenever I made a useless variable or created an error without even knowing I did. I also tended to make long and numerous comments all over my code, sometimes in every line. Again, I had mistaken this for clarity, but in truth it only made my code more difficult to read, and by extension more diffcult to understand. While writing comments isn't something **ESLint** directly enforces, it is a coding standard that I myself have been enforcing to the benefit of future readers. 
 
@@ -54,7 +54,7 @@ I've recently read this article, *[Understanding the Importance of Code Quality 
 
 Below is a simple infographic from this article that highlights some decent principle that I've been following to help organize my code:
 
-<img width="400px" class="rounded float-start pe-4" src="../img/art/Dos-and-Donts-of-Coding-Standards.jpg" alt="Coding Standards Here">
+<img width="300px" class="rounded float-start pe-4" src="../img/art/Dos-and-Donts-of-Coding-Standards.jpg" alt="Coding Standards Here">
 
 As I've said before, writing comments can either enhance or diminish the readability of your code. Being able make proper comments can summarize lengthly blocks of code or direct a programmer to specific and important lines. Alongside having naming schemes that serve to be direct or helpful. I used to find reading code to be a difficult task — all those lines of characters and letters and symbols, all condensed together to point of intertwining into a coding mess — so it can help to have convenient naming systems to help differentiate between the chaos, like having styling conventions like **camelCase** and **PascalCase** to diffentiate between classes and variables.
 
