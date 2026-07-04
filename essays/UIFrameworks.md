@@ -15,7 +15,7 @@ labels:
 
 I didn't realize how complex and involved web development really is. You could write a few lines of code in HTML and maybe style it in CSS, and voila — you've got a decent looking page. But then it also looks flat, and unpolished. A user interface is the bridge between users and the digital code they engage with, which makes UI design an important aspect. 
 
-As stated by *[A Quick Guide to UI Design Fundamentals](https://blush.design/blog/post/guide-ui-design)*, UI Design focuses on creating an interface that's easy to use and delightful. It isn't just making a UI that works well, but look good too. Whether it be ensuring links work and direct you to where you need to go, or making interactive interfaces funky and fun to use. Which is the point of using UI Frameworks, as it can assist in elevating the look of a UI by implementing a collection of pre-built, reusable components and design systems, as stated in *[What Are UI Frameworks — And Why Should You Use One?](https://medium.com/@vishal.p_95435/what-are-ui-frameworks-and-why-should-you-use-one-014028f99c69). Frameworks like React and Bootstrap's ready-made reusability can make web development faster and cost effective, without having to manually code and test each motif and layout. Not only will your UI look good, but you can also rely on established Frameworks to be well documented and have large communities to socialize and learn from.
+As stated by *[A Quick Guide to UI Design Fundamentals](https://blush.design/blog/post/guide-ui-design)*, UI Design focuses on creating an interface that's easy to use and delightful. It isn't just making a UI that works well, but look good too. Whether it be ensuring links work and direct you to where you need to go, or making interactive interfaces funky and fun to use. Which is the point of using UI Frameworks, as it can assist in elevating the look of a UI by implementing a collection of pre-built, reusable components and design systems, as stated in *[What Are UI Frameworks — And Why Should You Use One?](https://medium.com/@vishal.p_95435/what-are-ui-frameworks-and-why-should-you-use-one-014028f99c69)*. Frameworks like React and Bootstrap's ready-made reusability can make web development faster and cost effective, without having to manually code and test each motif and layout. Not only will your UI look good, but you can also rely on established Frameworks to be well documented and have large communities to socialize and learn from.
 
 <hr>
 
@@ -59,10 +59,10 @@ During this module on UI Design, I found UI Design to be a much more interesting
 
 For example, I've recreated the official [UH Manoa website](https://manoa.hawaii.edu/) using Bootstrap 5, as shown below...
 
-<img width="500px" class="rounded mx-auto pe-4" src="../img/EssayImg/E37_YourChoice_original.png" alt="Original Website">
+<img width="700px" class="rounded mx-auto pe-4" src="../img/EssayImg/E37_YourChoice_original.png" alt="Original Website">
 * *The Original Website...*
 
-<img width="500px" class="rounded mx-auto pe-4" src="../img/EssayImg/E37_YourChoice_recreation.png" alt="Recreated Website">
+<img width="700px" class="rounded mx-auto pe-4" src="../img/EssayImg/E37_YourChoice_recreation.png" alt="Recreated Website">
 * *...And My Recreation*
 
 
