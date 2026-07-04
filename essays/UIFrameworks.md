@@ -3,65 +3,79 @@ layout: essay
 type: essay
 title: "Web Design is my Passion"
 # All dates must be YYYY-MM-DD format!
-date: 2026-07-02
-published: false
+date: 2026-07-03
+published: true
 labels:
   - UI Frameworks
+  - UI Design
   - Bootstrap 5
 ---
 
-UI Frameworks are not simple. In fact, they can be almost as complicated to learn as a new programming language. Given that, why bother to use something like Bootstrap 5? What does one get in return for the investment of time and frustration? Why not just use raw HTML and CSS? Are the software engineering benefits of UI frameworks?
+<img width="300px" class="rounded float-start pe-4" src="../img/EssayImg/E37_ohWow.png" alt="oh wow...">
 
-For this assignment, create an engaging and informative essay about UI Frameworks. You might want to discuss some of the issues raised above, as well as your own personal experience with Bootstrap 5. Or perhaps you’ve also used another framework such as Semantic UI. In that case, it might be interesting to read your perspective on a comparison of the two.
+I didn't realize how complex and involved web development really is. You could write a few lines of code in HTML and maybe style it in CSS, and voila — you've got a decent looking page. But then it also looks flat, and unpolished. A user interface is the bridge between users and the digital code they engage with, which makes UI design an important aspect. 
 
-This essay is tailor made to include an image of a web page built with a UI framework (or even a comparison of web pages built with and without a UI framework).
+As stated by *[A Quick Guide to UI Design Fundamentals](https://blush.design/blog/post/guide-ui-design)*, UI Design focuses on creating an interface that's easy to use and delightful. It isn't just making a UI that works well, but look good too. Whether it be ensuring links work and direct you to where you need to go, or making interactive interfaces funky and fun to use. Which is the point of using UI Frameworks, as it can assist in elevating the look of a UI by implementing a collection of pre-built, reusable components and design systems, as stated in *[What Are UI Frameworks — And Why Should You Use One?](https://medium.com/@vishal.p_95435/what-are-ui-frameworks-and-why-should-you-use-one-014028f99c69). Frameworks like React and Bootstrap's ready-made reusability can make web development faster and cost effective, without having to manually code and test each motif and layout. Not only will your UI look good, but you can also rely on established Frameworks to be well documented and have large communities to socialize and learn from.
 
-Feel free to go in another direction entirely, as long as you are discussing UI Frameworks, and as long as the result is interesting, informative, and insightful. Write for the world!
+<hr>
 
-## Coding Standards? What's that?
+## UI Design and Art
 
-When I write my code, I usually understand and know how to make it readible for other. But most of the time I make it more convienent for me to understand than it is for others. Which makes coding standard helpful; they are guidelines that can be followed to govern the syntax of your code in order to better the quality — they assist in formatting your code to make it more uniform and readable. Enforcing coding standard, like having a grammar checker, indicates the need of a tool that can be implemented to help facilitate these useful guidelines. For example, having analytical tools like **ESLint** can help potential bugs like declared but unutilized variables and imports, or enforcing spacing for comprehensibility.
+In order to make a visually pleasing UI, I recommend making use of the Principle and Element of Art. These artistic fundamentals can be helpful, being used as guidelines to follow when creating an attractive UI. There's several articles that can be read, such as *7 Rules for Creating Gorgeous UI*, [Part 1](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda) and [Part 2](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-2-430de537ba96) and *[10 Common UI Design Mistakes (and How to Avoid Them)](https://careerfoundry.com/en/blog/ui-design/common-ui-design-mistakes/)*, that give good pointers for how to make UI Design look good. 
 
-## Reading my Code from a Different Perspective
+For example, lets consider the some elements of art that may elevate the look of a UI. Color can be used to represent certain aspects — red for urgency or cancelletion, or black for emphasis, especially against a white background. Below is Bootstrap's predefined button styles for various purposes — the *btn-warning* identifier makes your button a bright yellow with black text, reminiscent of a warning sign. Then there's blue for *btn-primary*, red for *btn-danger* and green for *btn-success*. Each button color can be used for different intentions, or you could style the color for a specific hex color to reflect the color scheme of the website itself.
 
-<img width="300px" class="rounded float-start pe-4" src="../img/art/E28_Eureka.png" alt="My thoughts">
+```html
+<!--- Button Styles --->
+<button type="button" class="btn btn-primary">Primary</button>
+<button type="button" class="btn btn-secondary">Secondary</button>
+<button type="button" class="btn btn-success">Success</button>
+<button type="button" class="btn btn-danger">Danger</button>
+<button type="button" class="btn btn-warning">Warning</button>
+<button type="button" class="btn btn-info">Info</button>
+<button type="button" class="btn btn-light">Light</button>
+<button type="button" class="btn btn-dark">Dark</button>
+<button type="button" class="btn btn-link">Link</button>
 
-While I worked on assignments where I utilized **ESLint**, I think I've learned a bit more about myself and about coding as well. Personally, I tend to give a lot of space between my lines of code. I used to think it made the code easier to read, but I realize now it's either terrible redundant or inconvenient. Having **ESLint** was really helpful in pointing out whenever I made a useless variable or created an error without even knowing I did. I also tended to make long and numerous comments all over my code, sometimes in every line. Again, I had mistaken this for clarity, but in truth it only made my code more difficult to read, and by extension more diffcult to understand. While writing comments isn't something **ESLint** directly enforces, it is a coding standard that I myself have been enforcing to the benefit of future readers. 
-
-* *This is a simple example, but for bigger function, it gets tiring...*
-```
-/*
-This function takes two numbers and adds them together, returning a sum
-*/
-function getSum(a: number, b: number): number {
-  let sum: number = 0; // Return variable defined
-  sum = a + b; // Adding the two given numbers
-  return sum; // Returning the sum of the numbers
-}
-```
-
-* *This is much better...*
-```
-// Returns a sum of two given numbers
-function getSum(a: number, b: number): number {
-  let sum: number = 0;
-  sum = a + b;
-  return sum;
-}
+<!--- Specific Button Style --->
+<button style="background-color: #800080; color: white;">Purple Button</button>
 ```
 
-It also helps to make the names of functions or variables more descriptive and unique, especially if you use similar names over and over again.
+Below is another example of how color can be used for grouping parts together or give signifigance to certain aspects. You can see how a bold purple color stands out against the white background and "bubbles" separate sections from each other. The example on the left is fine, but the example on the right is much better because it makes the iconography and text more prominent.
 
-However, when it came to indentations, I'd have to disagree with how **ESLint** enforces it — while it prefers normal spaces, I have always prefered using tab spaces. It is much more convenient to type out, but I also understand that tab spaces may or may not vary different based off of code editors or applications. So for now, I will abide by **ESLint**'s indentation style.
+<img width="400px" class="rounded float-start pe-4" src="../img/EssayImg/E37_UIDesign_Contrast.jpg" alt="Example 1">
 
-## Some Other Points to Take Away
+Unity is also an important principle of art to consider when designing a UI, like making the sizes of icons or fonts similar. Repetition and continuity also makes for a good unified layout — below, the examples have similar icons, but the one on the left looks disorganized and out of place, while the one on the right is more orderly. Between the two examples, one is more pleasing to look at and one a user is more likely to appreciate using.
 
-I've recently read this article, *[Understanding the Importance of Code Quality and Coding Standards](https://radixweb.com/blog/code-quality-and-coding-standard-in-software-development)*, which has helpful key points about how useful having quality code is for programmers. For instance, having easy-to-read code can increase efficency, cutting down time programmers spend on debugging or maintainging and increasing time they could spend enchancing said code. And personally I agree — If I'm working on a big project, especially one I enjoy, I think I'd rather take the time to add more features or new aspects to my code than busy myself with working out bugs or figuring out how errors keep appearing. 
+<img width="400px" class="rounded float-start pe-4" src="../img/EssayImg/E37_UIDesign_Unity.jpg" alt="Example 2">
 
-Below is a simple infographic from this article that highlights some decent principle that I've been following to help organize my code:
+There's also simple, but important styles to follow, like paying attention to the eye-flow of a user when implementing navigation or side bars, or balancing the positive and negative space of section of text and images from each other. Which may seem obvious, but from a coding standpoint, it's always important to consider the user's experience and how you can improve it.
 
-<img width="400px" class="rounded float-start pe-4" src="../img/art/Dos-and-Donts-of-Coding-Standards.jpg" alt="Coding Standards Here">
+<hr>
 
-As I've said before, writing comments can either enhance or diminish the readability of your code. Being able make proper comments can summarize lengthly blocks of code or direct a programmer to specific and important lines. Alongside having naming schemes that serve to be direct or helpful. I used to find reading code to be a difficult task — all those lines of characters and letters and symbols, all condensed together to point of intertwining into a coding mess — so it can help to have convenient naming systems to help differentiate between the chaos, like having styling conventions like **camelCase** and **PascalCase** to diffentiate between classes and variables.
+## Working with Bootstrap 5
 
-In conclusion, it best to have coding standard to adhere to, as they can assist in making your coding experience much more legible and tolerable. Or at the very least, they help in making you *feel* like your code is more legible and tolerable.
+During this module on UI Design, I found UI Design to be a much more interesting experience than just working with HTML and CSS without frameworks. 
+
+For example, I've recreated the official [UH Manoa website](https://manoa.hawaii.edu/) using Bootstrap 5, as shown below...
+
+<p width="300px class="rounded float-center pe-4 style="text-align: center;">
+  <img src="../img/EssayImg/E37_YourChoice_original.png" />
+</p>
+<p align="center"><em>The Original Website...</em></p>
+
+<p width="300px class="rounded float-center pe-4 style="text-align: center;">
+  <img src="../img/EssayImg/E37_YourChoice_recreation.png" />
+</p>
+<p align="center"><em>...And My Recreation</em></p>
+
+The first heading navigation bar was the first to be made, which is one of the more familiar components of a website layout that I've learned this module. The secondary navigation bar was the second, as I assumed it to be formatted similar to the first, as only a few lines had to be changes. However, the original website utilized an image carousel — which is an interactive revolving display of images — and I had no experience with making one. Fortunately, the Bootstrap site had documentation for making one, which I then giddily took advantage of for my recreation. Everything else like the UH Manoa logo and the footer was much more simpler to configure. 
+
+There are, however, certain aspects that aren't so similar; such as the fact that Bootstrap doesn't have a pre-made Flickr icon to use, or the fact that my recreated search bar is a tad bigger than the original's. The first couldn't be helped — I just used a 2-dot die as a substitute, while for the other, the fault lies in me. I wasn't quite sure how to change the size properly, so I left it as is. Though if you didn't see the original, you'd probably think it was fine. The images for the carousel however, I learned how to add that slight dark fade to the bottom, but I wasn't quite sure how to "zoom in" on the images just like the original. This just goes to show how complex it is to design an interesting-looking UI with Frameworks.
+
+## UI Design is so fun and so complicated
+
+I've never used Bootstrap or any kind of frameworks before this course. The closest I've gotten to web design is using Google Sites, and even then the experience is different in many ways. Altering the size of sections or the weight of fonts is one thing, but having unrestricted access to the code itself to modify however I like is another. But I really enjoyed working on UI design, or just in HTML in general. I'm an artistic and visual person at heart, so this has been a very informative and fascinating experience. 
+
+
+
