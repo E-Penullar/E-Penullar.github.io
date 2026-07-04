@@ -43,11 +43,11 @@ For example, lets consider the some elements of art that may elevate the look of
 
 Below is another example of how color can be used for grouping parts together or give signifigance to certain aspects. You can see how a bold purple color stands out against the white background and "bubbles" separate sections from each other. The example on the left is fine, but the example on the right is much better because it makes the iconography and text more prominent.
 
-<img width="400px" class="rounded float-start pe-4" src="../img/EssayImg/E37_UIDesign_Contrast.jpg" alt="Example 1">
+<img width="400px" class="rounded mx-auto pe-4" src="../img/EssayImg/E37_UIDesign_Contrast.jpg" alt="Example 1">
 
 Unity is also an important principle of art to consider when designing a UI, like making the sizes of icons or fonts similar. Repetition and continuity also makes for a good unified layout — below, the examples have similar icons, but the one on the left looks disorganized and out of place, while the one on the right is more orderly. Between the two examples, one is more pleasing to look at and one a user is more likely to appreciate using.
 
-<img width="400px" class="rounded float-start pe-4" src="../img/EssayImg/E37_UIDesign_Unity.jpg" alt="Example 2">
+<img width="400px" class="rounded mx-auto pe-4" src="../img/EssayImg/E37_UIDesign_Unity.jpg" alt="Example 2">
 
 There's also simple, but important styles to follow, like paying attention to the eye-flow of a user when implementing navigation or side bars, or balancing the positive and negative space of section of text and images from each other. Which may seem obvious, but from a coding standpoint, it's always important to consider the user's experience and how you can improve it.
 
@@ -59,10 +59,10 @@ During this module on UI Design, I found UI Design to be a much more interesting
 
 For example, I've recreated the official [UH Manoa website](https://manoa.hawaii.edu/) using Bootstrap 5, as shown below...
 
-<img width="500px" class="rounded float-start pe-4" src="../img/EssayImg/E37_YourChoice_original.png.jpg" alt="Original Website">
+<img width="500px" class="rounded mx-auto pe-4" src="../img/EssayImg/E37_YourChoice_original.png" alt="Original Website">
 * *The Original Website...*
 
-<img width="500px" class="rounded float-start pe-4" src="../img/EssayImg/E37_YourChoice_recreation.png" alt="Recreated Website">
+<img width="500px" class="rounded mx-auto pe-4" src="../img/EssayImg/E37_YourChoice_recreation.png" alt="Recreated Website">
 * *...And My Recreation*
 
 
