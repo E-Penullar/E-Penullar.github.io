@@ -59,15 +59,12 @@ During this module on UI Design, I found UI Design to be a much more interesting
 
 For example, I've recreated the official [UH Manoa website](https://manoa.hawaii.edu/) using Bootstrap 5, as shown below...
 
-<p width="300px class="rounded float-center pe-4 style="text-align: center;">
-  <img src="../img/EssayImg/E37_YourChoice_original.png" />
-</p>
-<p align="center"><em>The Original Website...</em></p>
+<img width="500px" class="rounded float-start pe-4" src="../img/EssayImg/E37_YourChoice_original.png.jpg" alt="Original Website">
+* *The Original Website...*
 
-<p width="300px class="rounded float-center pe-4 style="text-align: center;">
-  <img src="../img/EssayImg/E37_YourChoice_recreation.png" />
-</p>
-<p align="center"><em>...And My Recreation</em></p>
+<img width="500px" class="rounded float-start pe-4" src="../img/EssayImg/E37_YourChoice_recreation.png" alt="Recreated Website">
+* *...And My Recreation*
+
 
 The first heading navigation bar was the first to be made, which is one of the more familiar components of a website layout that I've learned this module. The secondary navigation bar was the second, as I assumed it to be formatted similar to the first, as only a few lines had to be changes. However, the original website utilized an image carousel — which is an interactive revolving display of images — and I had no experience with making one. Fortunately, the Bootstrap site had documentation for making one, which I then giddily took advantage of for my recreation. Everything else like the UH Manoa logo and the footer was much more simpler to configure. 
 
