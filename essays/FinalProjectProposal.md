@@ -37,7 +37,12 @@ Some simple concepts to implement:
 * Gallery Page (for event idea images, like Pinterest, or to merely create a collections of images for past events)
 
 The calendar page might look something like this, although I bit more interesting to look at, with color-coding options for events.
-<img width="300px" class="rounded float-start pe-4" src="../img/EC-Calender.jpg" alt="calendar">
+
+
+<img width="300px" class="rounded mx-auto pe-4" src="../img/EC-Calender.jpg" alt="calendar">
+
+
+
 Think the notes app combinted with the calendar app, with the ability for collaboration like Google Docs.
 
 I hope to be able to implement most if not all of these.
