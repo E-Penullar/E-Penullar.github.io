@@ -27,7 +27,9 @@ There's 3 types of design patters: Creational, Structural, and Behavioral patter
 
 ## Developing the Catalog
 
-For the Final Project of this course, I found myself joining a group in developing a centralized roster of UH Manoa Clubs — a web application that held the information on campus clubs, and gave these resources for students or club officers to view and edit. Personally, I worked on implementing the Playwright tests for the application, and ensuring the pages and forms ran smoothly. Playwright being a tool for web automation, used to run tests and simulate user actions to ensure a web application functionals alright. An example of a few design patterns within my code are Fallback / Default Value Design Patterns and Factory Patters, which are Behavioral and Creational types of design patters respectively.
+For the Final Project of this course, I found myself joining a group in developing a centralized roster of UH Manoa Clubs — a web application that held the information on campus clubs, and gave these resources for students or club officers to view and edit. Personally, I worked on implementing the Playwright tests for the application, and ensuring the pages and forms ran smoothly. Playwright being a tool for web automation, used to run tests and simulate user actions to ensure a web application functionals alright. An example of a few design patterns within my code are Fallback / Default Value Design Patterns and Factory Patters, which are Behavioral and Creational types of design patters respectively. There may be more within the entirety of the code of the web application, but here are my examples:
+
+<hr>
 
 A Fallback / Default Value Design Pattern is a pattern or method that offers an alternative response or safe substitute value, usually when a primary value or input is missing, empty, or fails. In this case, the following line provides alternative URLs, first starting with baseURL, then VERCEL_URL, then 'http://localhost:3000':
 
@@ -42,6 +44,7 @@ There also this Factory Pattern, which is used for object creation, and hides co
 ```html
 
 export default defineConfig({ ... })
+
 ```
 
 <hr>
