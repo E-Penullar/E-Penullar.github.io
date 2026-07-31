@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Remaking the Wheel must be Exhausting"
+title: "Remaking the Wheel must be Exhausting, so It's a Good Thing you don't have to."
 # All dates must be YYYY-MM-DD format!
 date: 2026-07-30
 published: false
@@ -16,9 +16,9 @@ I think I've had enough of this bumpy ride. The ride being software engineering,
 
 ## Reduce, Reuse, and Recycle
 
+Such a thing being Design Patterns, reusable blueprints and templates of code for the purposes of solving common problems in software design. It's not quite a 'copy-and-paste' kind of solution, but it does help to structure your code so that reoccurring issues get fixed easily. The fact that design patterns are reusable means that it saves time for developers — they won't have to waste time coming up with a solution if the solution already exists. And it's reliable, since it's reusability makes it recognizable and readable within large projects and larger swaths of code; and you depend on it to be pre-tested by other developers in the past or present without worrying about if it'll cause bugs or more problems. 
 
-
-
+There's 3 types of design patters: Creational, Structural, and Behavioral patters. Creational Patterns deals with how objects are created within your code, without making clutter or causing confusion for yourself or your collaborators — streamlining the process like a factory line. Structural Patterns deal with how classes and objects are meshed and assembled together to form larger structures — like an adapter, allowing for compatibility. And Behavioral Patterns deals with how objects communicate or respond to each other, like informing each other of new changes or developments, or passing along other messages.
 
 <hr>
 
