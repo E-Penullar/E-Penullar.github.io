@@ -4,13 +4,13 @@ type: essay
 title: "A Reflection of Time Management and Programming"
 # All dates must be YYYY-MM-DD format!
 date: 2026-08-10
-published: false
+published: true
 labels:
   - Effort Estimation Log
   - Final Project
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="../img/art/E06_looking.png">
+<img width="400px" class="rounded float-start pe-4" src="../img/EssayImg/E57B_EffortLog.png">
 
 ## What a week, huh? (Captain, it's Monday)
 
@@ -22,6 +22,6 @@ This project was fairly difficult for me personally, partially because I found m
 
 ## In Regards to AI Usage
 
-For the Final Project, I did find myself utilizing an AI assistant for problematic scenarios in which I couldn't find solutions to easily online. For example, I was tasked with implementing the Playwright tests for our website application, but I didn't really have any prior knowledge or experience in doing so. I was able to use a bit of the code from the [nextjs applicaion template](https://github.com/ics-software-engineering/nextjs-application-template) and from online sources, but I need to troubleshoot a few errors with Google Gemini in order to get things running smoothly. And while I've never heard of it before, if I were to do this project again, I probably would've utilized WakaTime for recording how long working on code took, if but to make my life just a bit easier.
+For the Final Project, I did find myself utilizing an AI assistant for problematic scenarios in which I couldn't find solutions to easily online. For example, I was tasked with implementing the Playwright tests for our website application, but I didn't really have any prior knowledge or experience in doing so. I was able to use a bit of the code from the [nextjs applicaion template](https://github.com/ics-software-engineering/nextjs-application-template) and from scouring some online sources, but I need to troubleshoot a few errors with Google Gemini in order to get things running smoothly. And while I've never heard of it before, if I were to do this project again, I probably would've utilized WakaTime for recording how long working on code took, if but to make my life just a bit easier.
 
 For the record, I did not use AI to make this essay. 
