@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "docendo disco, scribendo cogito: A Reflection of AI Usage in ICS 314"
+title: "Docendo Disco, Scribendo Cogito: A Reflection of AI Usage in ICS 314"
 # All dates must be YYYY-MM-DD format!
 date: 2026-08-11
 published: true
