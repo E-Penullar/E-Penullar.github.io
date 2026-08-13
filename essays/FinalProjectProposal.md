@@ -43,7 +43,7 @@ The calendar page might look something like this, although I bit more interestin
 
 
 
-Think the notes app combinted with the calendar app, with the ability for collaboration like Google Docs.
+Think something like the notes app combined with the calendar app, with the ability for collaboration like Google Docs.
 
 I hope to be able to implement most if not all of these.
 
@@ -53,7 +53,7 @@ Event Planners (Users) will be able to log in or sign up, set up a new event, ed
 Event Planners are also notified if an event is upcoming, and keep track of which events have been completed or not.
 
 Some potential uses:
-* For students planning their school schdule, alongside their personal schedule and / or work schedule
+* For students planning their school schedule, alongside their personal schedule and / or work schedule
 * For teachers planning out their class agenda, alongside class times, due assignments or projects, and scheduled office hours.
 * For anyone who are planning their vacations
 * For large events or small events, get-togethers or anniversaries 

@@ -23,7 +23,7 @@ As stated by *[A Quick Guide to UI Design Fundamentals](https://blush.design/blo
 
 In order to make a visually pleasing UI, I recommend making use of the Principle and Element of Art. These artistic fundamentals can be helpful, being used as guidelines to follow when creating an attractive UI. There's several articles that can be read, such as *7 Rules for Creating Gorgeous UI*, [Part 1](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda) and [Part 2](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-2-430de537ba96) and *[10 Common UI Design Mistakes (and How to Avoid Them)](https://careerfoundry.com/en/blog/ui-design/common-ui-design-mistakes/)*, that give good pointers for how to make UI Design look good. 
 
-For example, lets consider the some elements of art that may elevate the look of a UI. Color can be used to represent certain aspects — red for urgency or cancelletion, or black for emphasis, especially against a white background. Below is Bootstrap's predefined button styles for various purposes — the *btn-warning* identifier makes your button a bright yellow with black text, reminiscent of a warning sign. Then there's blue for *btn-primary*, red for *btn-danger* and green for *btn-success*. Each button color can be used for different intentions, or you could style the color for a specific hex color to reflect the color scheme of the website itself.
+For example, lets consider the some elements of art that may elevate the look of a UI. Color can be used to represent certain aspects — red for urgency or cancellation, or black for emphasis, especially against a white background. Below is Bootstrap's predefined button styles for various purposes — the *btn-warning* identifier makes your button a bright yellow with black text, reminiscent of a warning sign. Then there's blue for *btn-primary*, red for *btn-danger* and green for *btn-success*. Each button color can be used for different intentions, or you could style the color for a specific hex color to reflect the color scheme of the website itself.
 
 ```html
 <!--- Button Styles --->
@@ -41,7 +41,7 @@ For example, lets consider the some elements of art that may elevate the look of
 <button style="background-color: #800080; color: white;">Purple Button</button>
 ```
 
-Below is another example of how color can be used for grouping parts together or give signifigance to certain aspects. You can see how a bold purple color stands out against the white background and "bubbles" separate sections from each other. The example on the left is fine, but the example on the right is much better because it makes the iconography and text more prominent.
+Below is another example of how color can be used for grouping parts together or give significance to certain aspects. You can see how a bold purple color stands out against the white background and "bubbles" separate sections from each other. The example on the left is fine, but the example on the right is much better because it makes the iconography and text more prominent.
 
 <img width="400px" class="rounded mx-auto pe-4" src="../img/EssayImg/E37_UIDesign_Contrast.jpg" alt="Example 1">
 
@@ -73,6 +73,3 @@ There are, however, certain aspects that aren't so similar; such as the fact tha
 ## UI Design is so fun and so complicated
 
 I've never used Bootstrap or any kind of frameworks before this course. The closest I've gotten to web design is using Google Sites, and even then the experience is different in many ways. Altering the size of sections or the weight of fonts is one thing, but having unrestricted access to the code itself to modify however I like is another. But I really enjoyed working on UI design, or just in HTML in general. I'm an artistic and visual person at heart, so this has been a very informative and fascinating experience. 
-
-
-
