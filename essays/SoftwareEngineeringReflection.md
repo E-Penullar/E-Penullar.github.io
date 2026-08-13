@@ -1,10 +1,10 @@
 ---
 layout: essay
 type: essay
-title: ""
+title: "Season 8, Episode 12: The Finale of the Show"
 # All dates must be YYYY-MM-DD format!
 date: 2026-08-12
-published: false
+published: true
 labels:
   - ICS
   - Software Engineering
