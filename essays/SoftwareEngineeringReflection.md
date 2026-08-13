@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Season 8, Episode 12: The Finale of the Show"
+title: "Valde Defessus Sum: A Reflection on ICS 314"
 # All dates must be YYYY-MM-DD format!
 date: 2026-08-12
 published: true
