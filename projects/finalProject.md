@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Landing.png
+image: img/FinalProject.png
 title: "ICS 314 Final Project"
 date: Summer 2026
 published: true
@@ -25,4 +25,4 @@ But alas, there's more to a learning experience that having grievances; I'd beli
 
 <hr>
 
-Source: <a href="https://github.com/uhm-club-hub"><i class="large github icon "></i>E-Penullar/Final-Project</a>
+Source: <a href="https://github.com/uhm-club-hub"><i class="large github icon "></i>E-Penullar/Final-Project</a>, made in collaboration with [Peili Zhu](https://github.com/zhupeili-uh) and [Robyn Morita](https://github.com/rmorita2).
