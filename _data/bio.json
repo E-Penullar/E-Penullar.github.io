@@ -15,12 +15,13 @@
   "interests": [
     { "name": "Computational Media" },
     { "name": "Graphic Design" },
-    { "name": "Video Games" }
+    { "name": "Video Games, specifically Roguelikes and Sandboxes" },
+    { "name": "Origami" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "Python", "Java", "C", "C++" ]
+      "keywords": [ "Python", "Java", "C", "C++", "HTML", "TypeScript", "JavaScript" ]
     },
     {
       "name": "Toolsets/OS",
@@ -39,7 +40,8 @@
             "Intro to Computer Science II", 
             "Discrete Mathematics I",
             "Discrete Mathematics II",
-            "Program Structure"
+            "Program Structure",
+            "Software Engineering"
       ],
     }
   ],
@@ -50,6 +52,13 @@
       "startDate": "May 2024",
       "endDate": "August 2024",
       "summary": "Data Entry Position, Cataloging and Maintaing Physical Documents"
+    },
+    {
+      "company": "Consolidated Theaters",
+      "position": "Service Associate",
+      "startDate": "July 2026",
+      "endDate": "Present",
+      "summary": "Working with Customers and Engaging in Multiple Theater Operations"
     },
   ],
   "awards": [    
